@@ -1,5 +1,5 @@
 # Projet-COMPLEX
-Projet du modules de complexité algorithmiques que j'ai suivi en master 1 DAC à SU.
+Projet du module de complexité et méthodes probabilistes et approchées  que j'ai suivi en master 1 DAC à Sorbonne Université.
 
 En théorie des graphes et en informatique théorique, une coupe minimum d'un graphe est
 une coupe contenant un nombre minimal d'arêtes. Cette notion apparaît notamment dans le
